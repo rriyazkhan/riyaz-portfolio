@@ -1,18 +1,18 @@
-## Personal Portfolio – Riyaz Khan
+# Personal Portfolio – Riyaz Khan
 
 This is my personal portfolio website, built to showcase my skills, projects, and experience as a developer. The portfolio highlights my work, provides an overview of my technical abilities, and includes ways to connect with me.
 
-Live Demo
+# Live Demo
 
 🔗 Portfolio Website:
 https://riyaz-portfolio1.netlify.app
 
-GitHub Repository
+# GitHub Repository
 
 🔗 Source Code:
 https://github.com/rriyazkhan/riyaz-portfolio
 
-Technologies Used
+# Technologies Used
 
 HTML5
 
@@ -24,7 +24,7 @@ Responsive Web Design
 
 Netlify (Deployment)
 
-Features
+# Features
 
 Responsive design (mobile, tablet, desktop)
 
@@ -36,7 +36,7 @@ Projects section
 
 Contact information
 
-Clean and modern UI
+# Clean and modern UI
 
 Installation & Setup
 
@@ -47,7 +47,7 @@ cd riyaz-portfolio
 
 Then open index.html in your browser.
 
-Contact
+# Contact
 
 Feel free to connect with me for collaboration or opportunities.
 
