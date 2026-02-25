@@ -1,4 +1,4 @@
-Personal Portfolio – Riyaz Khan
+## Personal Portfolio – Riyaz Khan
 
 This is my personal portfolio website, built to showcase my skills, projects, and experience as a developer. The portfolio highlights my work, provides an overview of my technical abilities, and includes ways to connect with me.
 
